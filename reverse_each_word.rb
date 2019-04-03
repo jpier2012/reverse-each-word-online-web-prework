@@ -5,4 +5,4 @@ def reverse_each_word string
   #new_string = array*" "
 end
 
-#puts reverse_each_word "This is a test string!"
+reverse_each_word "This is a test string!"
